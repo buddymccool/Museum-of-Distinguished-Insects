@@ -86,6 +86,7 @@ transition: font-size 250ms;
  width: 100%;
  opacity: 0;
  transition: .5s ease-in-out;
+ border-radius: 35px;
  background-color: transparent;
 }
 
